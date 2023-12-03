@@ -1,0 +1,9 @@
+./.env
+./backend/node_modules
+./.idea
+node_modules
+./frontend/node_modules
+./backend/config/db.config.js
+backend/config/db.config.js
+backend/.env
+backend/config/db.config.js
